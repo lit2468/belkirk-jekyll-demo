@@ -24,4 +24,4 @@ menu:
     weight: 1
 
 ---
-dzzsdfds ffds cbdjc n dschjbs cn nhsbdhbfhjbsdbhfbhjds fhbs fbshdfhdsbf dsbfhdsfhbdshf
+![](/uploads/2018/12/07/compass.jpg)
